@@ -21,7 +21,7 @@ const App = () => {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#f0f0f0', // Matches styles.js default container
+    backgroundColor: '#f0f0f0', 
   },
   contentContainer: {
     padding: 20,
@@ -29,7 +29,7 @@ const styles = StyleSheet.create({
 });
 
 export default App;
-=======
+
 function App() {
   return (
     <>
@@ -42,4 +42,4 @@ function App() {
 
 }
 export default App;
->>>>>>> origin/MidtermAct01
+
